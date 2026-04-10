@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Menu, X, Dumbbell } from "lucide-react";
-import { Button } from "@/components/ui/Button.tsx";
+import { Button } from "@/components/ui/Button";
 
 const navLinks = [
   { label: "INÍCIO", href: "#" },

@@ -1,5 +1,5 @@
-import { Badge } from "@/components/ui/Badge.tsx";
-import { Button } from "@/components/ui/Button.tsx";
+import { Badge } from "@/components/ui/Badge";
+import { Button } from "@/components/ui/Button";
 import { ChevronRight, Flame, Users, Trophy } from "lucide-react";
 
 const heroImg = "https://www.dropbox.com/scl/fi/4j1s2o5l2owl140habk4s/HERO-GYM.PNG?rlkey=2x9qww00ri8nx8haf8ibppws5&st=gn7cp3zm&raw=1";
