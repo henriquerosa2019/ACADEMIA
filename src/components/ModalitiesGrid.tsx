@@ -1,7 +1,7 @@
-import { Card } from "@/components/ui/Card";
-import { Button } from "@/components/ui/Button";
-import { Badge } from "@/components/ui/Badge";
-import { AspectRatio } from "@/components/ui/AspectRatio";
+import { Card } from "@/components/ui/Card.tsx";
+import { Button } from "@/components/ui/Button.tsx";
+import { Badge } from "@/components/ui/Badge.tsx";
+import { AspectRatio } from "@/components/ui/AspectRatio.tsx";
 import { Dumbbell, Activity, Zap, Music, Swords, Leaf, ArrowRight } from "lucide-react";
 
 const modalities = [

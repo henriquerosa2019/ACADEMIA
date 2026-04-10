@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/Button";
+import { Button } from "@/components/ui/Button.tsx";
 import { ChevronRight, Gift } from "lucide-react";
 
 const CTASection = () => {
