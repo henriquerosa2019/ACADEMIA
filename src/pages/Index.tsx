@@ -1,8 +1,8 @@
-import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import ModalitiesGrid from "@/components/ModalitiesGrid";
-import CTASection from "@/components/CTASection";
-import Footer from "@/components/Footer";
+import Header from "@/components/Header.tsx";
+import Hero from "@/components/Hero.tsx";
+import ModalitiesGrid from "@/components/ModalitiesGrid.tsx";
+import CTASection from "@/components/CTASection.tsx";
+import Footer from "@/components/Footer.tsx";
 
 const Index = () => {
   return (
